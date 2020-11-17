@@ -1,2 +1,2 @@
-# weather-app.github.io
+ a static hotel website
  
