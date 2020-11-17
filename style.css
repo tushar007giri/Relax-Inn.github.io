@@ -1,0 +1,63 @@
+
+*{
+    margin:0;
+    padding:0;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    background-color:#DCDCDC;
+  }
+.red{
+    background-color:#ff4d4d;
+}
+.navbar{
+border:1px solid black;
+}
+.bgimage{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    position: absolute;
+    top: 60%;
+    left:10%;
+
+}
+.title h2{
+    color:red;
+}
+.w3-large
+{
+    font-size: 20px;
+}
+button{
+    background-color: black;
+    color: blanchedalmond;
+    width: 100%;
+}
+.rowe{
+    background-color: red;
+    color:whitesmoke;
+    height:50px ;
+    width: 100%;
+}
+.rowe h4{
+    position: relative;
+    text-align: center;
+}
+.bottom-left{
+    position: absolute;
+    bottom: 8px;
+    left:16px;
+}
+.ro{
+    position: relative;
+  }
+  .jumbo{
+      background-color: black;
+  }
+  footer
+  {
+    background-color: black;
+    text-align:center;
+    height:100px;
+  }
